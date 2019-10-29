@@ -5,7 +5,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
-  array.sort
+  puts array.sort
   array.last()
 end
 
